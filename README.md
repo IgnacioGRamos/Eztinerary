@@ -19,6 +19,7 @@ Herramientas utilizadas:
 
 -- Back-end: Node js, Typescript, Express, MongoDB, Passport y JWT. 
 </p>
+<br>
 
 <p>Inicio</p>
 <img src="./img/landing.png" />
