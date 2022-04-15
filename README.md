@@ -8,8 +8,8 @@ Proyecto grupal de HENRY
 <br>
 <img src="./img/Home1.png" />
 <br>
+<img src="./img/Registro.png" />
+<br>
 <img src="./img/dashboard.png" />
 <br>
 <img src="./img/Map.png" />
-<br>
-<img src="./img/Registro.png" />
