@@ -13,3 +13,5 @@ Proyecto grupal de HENRY
 <img src="./img/dashboard.png" />
 <br>
 <img src="./img/Map.png" />
+<br>
+<img src="./img/admin.png" />
