@@ -20,14 +20,20 @@ Herramientas utilizadas:
 -- Back-end: Node js, Typescript, Express, MongoDB, Passport y JWT. 
 </p>
 
+<p>Inicio</p>
 <img src="./img/landing.png" />
 <br>
+<p>LogIn</p>
 <img src="./img/Home1.png" />
 <br>
+<p>Registro</p>
 <img src="./img/Registro.png" />
 <br>
+<p>Dashboard Usuario</p>
 <img src="./img/dashboard.png" />
 <br>
+<p>Mapa</p>
 <img src="./img/Map.png" />
 <br>
+<p>Dashboard Administrador</p>
 <img src="./img/admin.png" />
