@@ -15,7 +15,7 @@ Además, la página cuenta con un dashboard para el administrador de la cuenta, 
 
 Herramientas utilizadas: 
 
--- Front-end: HTML, CSS, JavaScript, React, Redux, Material Ui y sweetalert. 
+-- Front-end: HTML, CSS, JavaScript, React, Redux y Material Ui. 
 
 -- Back-end: Node js, Typescript, Express, MongoDB, Passport y JWT. 
 </p>
