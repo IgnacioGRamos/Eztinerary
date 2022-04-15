@@ -1,4 +1,4 @@
-# proyecto-grupal
+# Eztinerary
 
 Proyecto grupal de HENRY
 
